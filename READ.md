@@ -1,0 +1,1 @@
+# a simle testlib usage for competitive programming
